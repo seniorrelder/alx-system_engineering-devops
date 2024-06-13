@@ -1,0 +1,11 @@
+# alx-system_engineering-devops
+
+This repository contains various directories, each of which contains scripts for different tasks.
+
+## 0x01-shell_permissions
+
+This directory contains scripts related to shell permissions.
+
+### 1-who_am_i
+
+This script prints the effective username of the current user.
