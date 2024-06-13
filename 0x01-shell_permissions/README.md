@@ -53,3 +53,7 @@ This script sets the permission to the file hello as follows:
 ### 9-John_Doe
 
 This script sets the mode of the file hello to -rwxr-x-wx.
+
+### 11-directories_permissions
+
+This script adds execute permission to all subdirectories of the current directory for the owner, the group owner, and all other users. Regular files are not changed.
