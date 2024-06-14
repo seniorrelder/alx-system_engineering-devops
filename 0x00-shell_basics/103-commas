@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -vpa --quoting-style=shell-escape | tr "\n" "," | sed "s/,/, /g" | head -c -2; echo
