@@ -1,1 +1,1 @@
-This is the project README file.
+This is the README file for 0x00-shell_basics.
