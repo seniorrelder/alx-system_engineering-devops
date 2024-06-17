@@ -15,3 +15,4 @@ This repository contains scripts for the ALX System Engineering DevOps project.
 - : This script prints a confused smiley "(Ôo)".
 - : This script prints a confused smiley "(Ôo)".
 - : This script displays the content of the /etc/passwd file.
+- : This script displays the content of the /etc/passwd and /etc/hosts files.
