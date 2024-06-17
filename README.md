@@ -24,3 +24,4 @@ This repository contains scripts for the ALX System Engineering DevOps project.
 - : This script duplicates the last line of the file iacta.
 - : This script deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 - : This script counts the number of directories and sub-directories in the current directory.
+- : This script displays the 10 newest files in the current directory.
