@@ -1,1 +1,7 @@
-This is the alx-system_engineering-devops repository. It contains various scripts for system engineering and DevOps tasks.
+# ALX System Engineering DevOps
+
+This repository contains scripts for the ALX System Engineering DevOps project.
+
+## Scripts
+
+- : This script prints "Hello, World" followed by a new line to the standard output.
