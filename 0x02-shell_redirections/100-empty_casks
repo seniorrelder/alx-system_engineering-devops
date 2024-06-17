@@ -1,0 +1,4 @@
+#!/bin/bash
+find . -type d -empty -printf "%P
+" -o -type f -empty -printf "%P
+"
