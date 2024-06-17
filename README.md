@@ -17,3 +17,4 @@ This repository contains scripts for the ALX System Engineering DevOps project.
 - : This script displays the content of the /etc/passwd file.
 - : This script displays the content of the /etc/passwd and /etc/hosts files.
 - : This script displays the last 10 lines of the /etc/passwd file.
+- : This script displays the first 10 lines of the /etc/passwd file.
